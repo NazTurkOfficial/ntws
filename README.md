@@ -1,1 +1,0 @@
-# `NazTurkOfficial Website` resmî altyapısıdır.
